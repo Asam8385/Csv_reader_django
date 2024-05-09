@@ -11,7 +11,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Getting Started
 ```bash
-Add the Csv file to the path like => backend_assessmnet/School_app/Ganison_dataset/1.csv
+Add the Csv files to the path like => backend_assessmnet/School_app/Ganison_dataset/1.csv
 ```
 ### 1. Clone the Repository:
 
